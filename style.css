@@ -4,6 +4,10 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+img{
+    width: 190px;
+}
+
 .header header h1
 {
     font-size: 30px;
